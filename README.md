@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniela!
+# Hi, I'm Daniela!
 
 ✨ Industrial Designer passionate about creating meaningful connections between the physical and digital worlds.
  
