@@ -7,12 +7,10 @@
 🌱 I’m especially motivated by projects that combine creativity, sustainability, and human-centered design to make everyday life a bit smarter and more delightful.
 
 🚀 Currently expanding my skills in front-end development as part of my journey toward building interactive systems that blend design, technology, and purpose.
- 
-[**Portfolio**](https://www.behance.net/danielaperezb) | [**LinkedIn**](www.linkedin.com/in/danielaperezb)
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### Design & Prototyping
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
