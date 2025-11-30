@@ -2,7 +2,7 @@
 
 ✨ Industrial Designer passionate about creating meaningful connections between the physical and digital worlds.
  
-💡 I’m driven by curiosity for how people interact with products—both tangible and digital—and I love transforming complex human needs into clear, intuitive experiences.
+💡 I’m driven by curiosity for how people interact with products—both tangible and digital—and I love transforming human needs into clear, intuitive experiences.
  
 🌱 I’m especially motivated by projects that combine creativity, sustainability, and human-centered design to make everyday life a bit smarter and more delightful.
 
