@@ -1,6 +1,6 @@
 # Hi, I'm Daniela!
 
-✨ Industrial Designer passionate about creating meaningful connections between the physical and digital worlds.
+✨ Industrial Designer | UX Mindset
  
 💡 I’m driven by curiosity for how people interact with products—both tangible and digital—and I love transforming human needs into clear, intuitive experiences.
  
